@@ -2,7 +2,7 @@
 # proposed in "Practical and Optimal Likelihood Intervals and Regions
 # for Weibull and Gumbel Distributions". 
 # Tech23_068 ####
-# Actualized by E. Díaz-Francés on September 7, 2024
+# Updated by E. Díaz-Francés on September 7, 2024
 #----------------------- --
 
 # Overall arguments and variables used: ####
